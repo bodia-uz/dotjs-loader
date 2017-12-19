@@ -20,7 +20,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bodia-uz/dotjs-loader.git"
-  }
+  },
   "peerDependencies": {
     "dot": "^1.1.0"
   },
