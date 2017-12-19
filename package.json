@@ -7,9 +7,9 @@
     "loader",
     "doT"
   ],
-  "homepage": "https://github.com/simpleigh/dotjs-loader#readme",
+  "homepage": "https://github.com/bodia-uz/dotjs-loader#readme",
   "bugs": {
-    "url": "https://github.com/simpleigh/dotjs-loader/issues"
+    "url": "https://github.com/bodia-uz/dotjs-loader/issues"
   },
   "license": "MIT",
   "author": "Leigh Simpson <code@simpleigh.com> (https://www.simpleigh.com/)",
@@ -20,25 +20,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bodia-uz/dotjs-loader.git"
-  },
-  "scripts": {
-    "test": "jest --coverage",
-    "coverage": "codecov"
-  },
-  "dependencies": {
-    "loader-utils": "^1.1.0",
-    "schema-utils": "^0.4.2"
-  },
+  }
   "peerDependencies": {
     "dot": "^1.1.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "codecov": "^3.0.0",
-    "dot": "^1.1.2",
-    "jest": "^21.2.1",
-    "memory-fs": "^0.4.1",
-    "webpack": "^3.9.1"
+    "dot": "^1.1.2"
   }
 }
